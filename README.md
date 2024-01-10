@@ -2,6 +2,8 @@
 
 Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
 
+測試markdown 部落格功能用
+
 ## Setup
 
 Make sure to install the dependencies:
